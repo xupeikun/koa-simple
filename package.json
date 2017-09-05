@@ -1,0 +1,20 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "description": "koa test",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js"
+  },
+  "keywords": [
+    "koa"
+  ],
+  "author": "XPK",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.3.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.2.1",
+    "nunjucks": "^3.0.1"
+  }
+}
